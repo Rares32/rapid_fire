@@ -1,35 +1,34 @@
-# rapid_fire
-• „Rapid Fire” este un joc de reflexe și precizie în care jucătorul trebuie să lovească țintele care apar pe ecran pentru a acumula puncte și a promova la niveluri superioare.
+# 🎯 Rapid Fire
+Rapid Fire este un joc simplu și captivant dezvoltat în Python + Pygame, în care trebuie să dobori ținte mobile în timp limitat pentru a avansa în niveluri superioare.
 
-• Țintele apar aleatoriu din marginea ecranului și se deplasează în linie dreaptă către o direcție aleasă aleatoriu.
+🕹️ Cum se joacă:
+🔫 Țintește și trage în țintele care apar din marginea ecranului.
 
-• Jucătorul trebuie să le lovească cu click stânga înainte ca ele să iasă din zona activă de joc.
+🎯 Țintele se mișcă cu o viteză constantă și vin din direcții aleatorii.
 
-• Ținta 1 punct (mai mică):
+⏱️ Fiecare rundă durează 15 secunde.
 
-  _ Apare mai des
-    
-  _ Valoarea crește cu nivelul (ex: la nivelul 3 → valorează 3 puncte)
+📈 Trebuie să acumulezi un scor minim pentru a trece în nivelul următor.
 
-• Ținta 5 puncte (mai mare):
+🔁 La fiecare nivel, dificultatea crește (ținte mai rapide, punctaj mai mare necesar).
 
-  _ Apare mai rar
-  
-  _ Valoarea crește și ea cu nivelul (ex: la nivelul 3 → valorează 15 puncte)
-  
-• Fiecare rundă durează 15 secunde.
+🖱️ Cursorul este o imagine de țintă personalizată.
 
-• Obiectivul este să atingi un scor țintă pentru a trece la următorul nivel.
+🧠 Jocul are un leaderboard unde sunt salvate cele mai bune scoruri.
 
-• La fiecare nivel:
+###  **⭐ Funcționalități:** 
 
-  - Țintele devin mai rapide
-  
-  - Scorul necesar se dubleză
-  
-• Dacă nu atingi scorul necesar într-un nivel, jocul se încheie.
+🧍‍♂️ Introducerea numelui jucătorului
 
-• Ești informat cu un ecran „Game Over” care îți arată scorul tău.
+🏆 Salvare automată scor în leaderboard
 
-• Poți reveni la meniul principal pentru a juca din nou.
+🎨 Interfață grafică cu meniu principal, help și ecran de Game Over
+
+🔊 Sunet de hit personalizat
+
+📊 Legendă în joc care arată ce punctaj are fiecare țintă
+
+🖼️ Fundaluri, fonturi și design artistic
+
+
 
